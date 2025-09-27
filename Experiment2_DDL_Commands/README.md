@@ -319,6 +319,9 @@ StockQuantity INTEGER CHECK(StockQuantity>0)
 
 <img width="1194" height="332" alt="image" src="https://github.com/user-attachments/assets/d0c8688b-b57b-4383-a96f-d7110e23b3d4" />
 
+## Module 1 Home Challenge Grade
+
+<img width="1402" height="154" alt="image" src="https://github.com/user-attachments/assets/0484a0b3-1672-4f95-a7ab-d14e8061bcd3" />
 
 
 ## RESULT
